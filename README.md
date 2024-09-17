@@ -1,2 +1,2 @@
 # dat100-innlevering-1
-Innlevering av Dato100 oppgaver HVL
+Innlevering av DAT100 oppgaver HVL
